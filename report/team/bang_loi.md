@@ -6,7 +6,7 @@
 
 **Nhãn người 1:** P3 (họ tên: Vũ Đình Thắng) · **Nhãn người 2:** P4 (họ tên: Nguyễn Hữu Thịnh)
 
-P3 và P4 gắn nhãn độc lập (8 phút, không trao đổi) rồi mới so. Hai bộ nhãn trùng cả 20 ca nên **Nhãn thống nhất** lấy theo nhãn chung.
+P3 và P4 gắn nhãn độc lập (8 phút, không trao đổi) rồi mới so. Hai bộ nhãn trùng cả 20 ca nên **Nhãn thống nhất** lấy theo nhãn chung. Quy trình: P3 commit bộ nhãn người 1 trước (commit `163a179`, PR #3); P4 gắn bộ nhãn người 2 vào phiếu nháp cá nhân trước khi đối chiếu (theo báo cáo cá nhân P4). P3 không dùng AI khi gắn nhãn.
 
 |  Ca | Nhãn người 1      | Nhãn người 2      | Trùng? | Nhãn thống nhất   |
 | --: | ----------------- | ----------------- | ------ | ----------------- |

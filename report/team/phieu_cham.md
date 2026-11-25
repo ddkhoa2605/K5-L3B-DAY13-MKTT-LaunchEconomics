@@ -14,7 +14,7 @@ Nhóm số n chấm, nhóm số n + 1; nhóm cuối chấm nhóm 1. Chấm theo 
 
 **Quyết định của hội đồng:** Go có điều kiện
 
-**Lý do:** Nhóm chia pilot theo nhân viên, 20 cụm mỗi nhóm, cỡ mẫu hiệu dụng tối đa 1.000 < 1.251 cần cho mức chênh 5 điểm. Nhóm chọn mức chênh 6 điểm (859 mẫu hiệu dụng) và ghi rõ trong hồ sơ rằng nếu tác động thật là 5 điểm thì power còn khoảng 64%, tức nêu số bất lợi và cách xử lý. Đề xuất Go có điều kiện khớp với bằng chứng này. Để nâng lên Go chắc chắn, nhóm cần nêu ai ký chấp nhận mức chênh 6 điểm và thời gian chạy tối thiểu để mỗi nhân viên đủ 299 yêu cầu.
+**Lý do:** Nhóm chia pilot theo nhân viên, 20 cụm mỗi nhóm, cỡ mẫu hiệu dụng tối đa 1.000 < 1.251 cần cho mức chênh 5 điểm. Nhóm chọn mức chênh 6 điểm (859 mẫu hiệu dụng) và ghi rõ trong hồ sơ rằng nếu tác động thật là 5 điểm thì power còn khoảng 64%, tức nêu số bất lợi và cách xử lý. Đề xuất Go có điều kiện khớp với bằng chứng này. Gợi ý để nhóm chắc hơn: ghi rõ ai ký chấp nhận mức chênh 6 điểm và thời gian chạy tối thiểu để mỗi nhân viên đủ 299 yêu cầu mỗi người.
 
 **Câu hỏi đề xuất cho đội trình:** Nhóm bạn chia pilot theo đơn vị nào và mỗi nhóm có bao nhiêu cụm? Cỡ mẫu hiệu dụng tối đa của cách chia đó là bao nhiêu, và có đủ cho mức chênh 5 điểm không? Nếu không đủ, nhóm đã chấp nhận đánh đổi gì và có ghi con số bất lợi trong hồ sơ không?
 
