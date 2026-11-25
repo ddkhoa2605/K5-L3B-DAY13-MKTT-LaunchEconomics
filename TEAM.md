@@ -13,7 +13,7 @@
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Đoàn Đăng Khoa | ... | ... | ddkhoa2605 | P1 · Người viết code (trước giải lao), người kiểm số (sau giải lao) |
 |   2 | Nguyễn Văn Minh | 2A202603771 | 26ai.minhnv7@vinuni.edu.vn | vminh21 | P2 · Người kiểm số (trước giải lao), người viết code (sau giải lao) |
-|   3 | Vũ Đình Thắng | ... | ... | ThangVu2303 | P3 · Người gắn nhãn 1 |
+|   3 | Vũ Đình Thắng | 2A202603753 | 26ai.thangvd2@vinuni.edu.vn | ThangVu2303 | P3 · Người gắn nhãn 1 |
 |   4 | Nguyễn Hữu Thịnh | 2A202603726 | 26ai.thinhnh2@vinuni.edu.vn | huuthinh812 | P4 · Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:
@@ -67,7 +67,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 - PR #2: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/2 · PR #4 (báo cáo cá nhân): https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/4 · [Báo cáo cá nhân](report/team/2A202603771_NguyenVanMinh.md)
 
-## VuDinhThang-...
+## VuDinhThang-2A202603753
 
 ### Phần việc phụ trách
 
@@ -80,7 +80,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Bằng chứng
 
-- PR #3: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/3
+- PR #3: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/3 · [Báo cáo cá nhân](report/team/2A202603753_VuDinhThang.md)
 
 ## NguyenHuuThinh-2A202603726
 
