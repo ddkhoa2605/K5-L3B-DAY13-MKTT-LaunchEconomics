@@ -41,16 +41,17 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Phần việc phụ trách
 
-- Nhiệm vụ A (A1–A3) và B (B1–B4) trong `src/lab13.py`; E2 rủi ro kinh tế.
+- Nhiệm vụ A (A1–A3) và B (B1–B4) trong `src/lab13.py`; kiểm số D1 sau giải lao; E2 rủi ro kinh tế.
 
 ### Đóng góp cụ thể
 
 - Viết ba hàm A1 (ba phép thử ĐẠT), `mo_hinh`, bảng A2, A3 theo loại, B1 chín kịch bản, B2, B3 giới hạn số lần chạy, B4 xem lại 100%.
-- Soạn ba dòng rủi ro kinh tế E2 (PR #5, đã đóng; nhóm dùng bản E2 trong PR #6).
+- Kiểm lại năm câu D1 từng bước, đối chiếu với code của P2 (1.251 · 3.103 · 1.000 · 300 · m ≥ 299, DE 6,96).
+- Soạn ba dòng rủi ro kinh tế E2 (PR #5, đã đóng; nhóm dùng bản E2 trong PR #6); review và merge PR #2 của P2.
 
 ### Bằng chứng
 
-- PR #1: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/1 · PR #5: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/5
+- PR #1: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/1 · PR #5: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/5 · PR #8 (báo cáo cá nhân): https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/8 · [Báo cáo cá nhân](report/team/2A202603766_DoanDangKhoa.md)
 
 ## NguyenVanMinh-2A202603771
 
