@@ -12,7 +12,7 @@
 - **Nhiệm vụ A (CP1):** ba hàm A1, hàm `mo_hinh`, bảng A2 và A3 trong `src/lab13.py`.
 - **Nhiệm vụ B (CP2):** bảng độ nhạy B1 (9 kịch bản), B2 (cặp và xếp hạng), B3 (giới hạn chạy lại, chi phí cả hệ thống), B4 (xem lại 100%).
 - **Sau giải lao, kiểm số:** kiểm lại từng bước năm câu D1 để đối chiếu với code của P2.
-- **E2 (rủi ro kinh tế):** soạn ba dòng E2 từ số B1, B4, A4 (PR #5, đã đóng vì trùng với E2 trong PR #6 của P4).
+- **E2 (rủi ro kinh tế):** soạn ba dòng E2 từ số B1, B4, A4 (PR #5, đã đóng vì chỉ dùng để đóng góp ý kiến cho Thịnh (P4); nhóm dùng bản E2 trong PR #6).
 - **Phối hợp:** bàn giao số A, B cho P4 điền `bang_chi_phi.md`; review và merge PR #2 của P2.
 
 ## 3. Đóng góp cụ thể
