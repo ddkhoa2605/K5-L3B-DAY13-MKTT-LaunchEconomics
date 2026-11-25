@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Đoàn Đăng Khoa | ... | ... | ddkhoa2605 | P1 · Người viết code (trước giải lao), người kiểm số (sau giải lao) |
+|   1 | Đoàn Đăng Khoa | 2A202603766 | 26ai.khoadd@vinuni.edu.vn | ddkhoa2605 | P1 · Người viết code (trước giải lao), người kiểm số (sau giải lao) |
 |   2 | Nguyễn Văn Minh | 2A202603771 | 26ai.minhnv7@vinuni.edu.vn | vminh21 | P2 · Người kiểm số (trước giải lao), người viết code (sau giải lao) |
 |   3 | Vũ Đình Thắng | 2A202603753 | 26ai.thangvd2@vinuni.edu.vn | ThangVu2303 | P3 · Người gắn nhãn 1 |
 |   4 | Nguyễn Hữu Thịnh | 2A202603726 | 26ai.thinhnh2@vinuni.edu.vn | huuthinh812 | P4 · Người gắn nhãn 2, kiêm giữ hồ sơ |
@@ -95,3 +95,4 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 ### Bằng chứng
 
 - PR #6: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics/pull/6 · [Báo cáo cá nhân](report/team/2A202603726_NguyenHuuThinh.md)
+
