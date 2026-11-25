@@ -5,7 +5,7 @@
 - Tên nhóm: MKTT
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY13-MKTT-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics · nhánh `main` · commit chốt: ...
+- URL repo, nhánh nộp, commit chốt: https://github.com/ddkhoa2605/K5-L3B-DAY13-MKTT-LaunchEconomics · nhánh `main` · commit chốt: `a2c81b3` (nội dung bài nộp; các commit sau chỉ cập nhật ô này)
 
 ## Thành viên
 
