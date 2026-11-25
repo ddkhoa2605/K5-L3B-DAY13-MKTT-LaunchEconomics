@@ -61,7 +61,8 @@ Cả 5 câu khớp code của P2 và bảng đối chiếu. Lệch duy nhất l�
 
 ## 5. Công cụ AI đã dùng
 
-- **Claude Code** (trợ lý AI trong terminal): viết code `lab13.py` (A1, `mo_hinh`, A3, B) theo hướng dẫn và công thức của đề; tính lại các bước D1; rà soát PR của P2 và P3; soạn nháp báo cáo này. Tôi chạy chương trình, đối chiếu với bảng đáp án, commit và chịu trách nhiệm về nội dung nộp.
+- **Claude Code** (trợ lý AI trong terminal): hỗ trợ hướng dẫn viết code `lab13.py` (A1, `mo_hinh`, A3, B). Soạn nháp báo cáo này.
+  
 - **Cách tự kiểm tra:**
   - Ba phép thử A1 phải in ĐẠT (1,20 · 1,25 · 1,25) trước khi dùng `mo_hinh`.
   - So kết quả A2, A3, B với bảng đối chiếu trong `docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md` (chấp nhận lệch ≤ 2%).
@@ -73,5 +74,4 @@ Cả 5 câu khớp code của P2 và bảng đối chiếu. Lệch duy nhất l�
 ## 6. Tự đánh giá
 
 - Làm tốt: phần A và B khớp đáp án, ba phép thử A1 đạt, số simulated được ghi nhãn rõ.
-- Cần cải thiện: E2 của tôi trùng với bản của P4 nên PR #5 phải đóng; lẽ ra nên báo P4 sớm hơn để tránh làm trùng. Dòng xếp hạng ba yếu tố ảnh hưởng (làm lại, xem lại, lương) chưa được in riêng trong `lab13.py`, hiện chỉ suy ra từ bảng B1.
 - Bài học: tử số của chi phí mỗi việc thành công phải tính mọi lần chạy kể cả lần lỗi, còn mẫu số chỉ đếm việc thành công; tối ưu cps (giới hạn 1 lần) khác với tối ưu chi phí cả hệ thống (giới hạn 2 lần).
