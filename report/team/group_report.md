@@ -24,7 +24,7 @@ Nhóm đánh giá chi phí, mức độ sử dụng và an toàn của trợ lý
 
 - Chi phí toàn mẫu là **4.472 đ/việc thành công `simulated`**. Chi phí biến đổi cả hệ thống là **5.865 đ/yêu cầu `simulated`**, bằng **0,49×** mốc nhân viên tự làm. Nếu xem lại 100% trong phạm vi nội địa và hàng nặng, chi phí có thể lên tới **12.415 đ/việc thành công `simulated`**. [Bảng chi phí](bang_chi_phi.md)
 - Trong đợt chạy thử, **82,83% (994/1.200)** yêu cầu đóng trong 24 giờ và không mở lại trong 7 ngày, **27,12% (48/177)** yêu cầu đã xem lại có gợi ý bị sửa hoặc bỏ, và **4,25% (51/1.200)** yêu cầu mở lại trong 7 ngày. [Đặc tả chỉ số](chi_so.md)
-- Hồ sơ đề xuất **Go có điều kiện** cho nội địa và hàng nặng. Các điều kiện là kiểm thử chống hoàn tiền trùng, xác nhận đủ mẫu và kiểm tra an toàn trước khi giảm xem lại. Nhóm sẽ ghi kết quả của hội đồng sau buổi duyệt chéo. [Hồ sơ launch](ho_so_launch_v0.md)
+- Hồ sơ đề xuất **Go có điều kiện** cho nội địa và hàng nặng. Các điều kiện là kiểm thử chống hoàn tiền trùng, xác nhận đủ mẫu và kiểm tra an toàn trước khi giảm xem lại. Nhóm đã chấm hồ sơ của nhóm khác trong [phiếu chấm duyệt chéo](phieu_cham.md). [Hồ sơ launch](ho_so_launch_v0.md)
 
 ## 5. Khó khăn và cách xử lý
 
