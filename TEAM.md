@@ -37,7 +37,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 Đóng góp của từng thành viên (bằng chứng là PR trên repo nhóm):
 
-## DoanDangKhoa-...
+## DoanDangKhoa-2A202603766
 
 ### Phần việc phụ trách
 
